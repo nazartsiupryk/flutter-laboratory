@@ -49,7 +49,7 @@ class ProductCard extends StatelessWidget {
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
-                Price(amount: "20.00"),
+                Price(amount: "20"),
                 FavBtn(),
               ],
             )
