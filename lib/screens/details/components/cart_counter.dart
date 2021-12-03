@@ -28,7 +28,7 @@ class CartCounter extends StatelessWidget {
             child: Text(
               "1",
               style: TextStyle(
-                  fontSize: 14, fontWeight: FontWeight.w800),
+                  fontSize: 15, fontWeight: FontWeight.w800),
             ),
           ),
           RoundIconBtn(
