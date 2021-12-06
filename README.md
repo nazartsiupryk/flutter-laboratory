@@ -7,3 +7,4 @@
 * Oleksandria.
 
 **Programming language: Dart**
+**Course: "Development the mobile applications"
